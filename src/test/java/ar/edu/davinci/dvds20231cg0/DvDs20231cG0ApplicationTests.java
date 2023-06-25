@@ -8,6 +8,7 @@ class DvDs20231cG0ApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Hola mundo");
 	}
 
 }
