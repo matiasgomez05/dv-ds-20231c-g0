@@ -3,3 +3,4 @@ Diseño de Sistemas - Tienda Ropita
 Integrantes:
 * Matías Gómez
 * Juan Manuel Saavedra
+* Adriana Vasquez
