@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>ar.edu.davinci</groupId>
-	<artifactId>dv-ds-20231c-g0</artifactId>
+	<artifactId>dv-ds-20231c-g9</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dv-ds-20231c-g0</name>
+	<name>dv-ds-20231c-g9</name>
 	<description>Escuela Da Vinci - Diseño de Sistemas - Trabajo Práctico - Tienda Ropita</description>
 	<properties>
 		<java.version>17</java.version>

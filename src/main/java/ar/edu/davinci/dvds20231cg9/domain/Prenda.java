@@ -1,4 +1,4 @@
-package ar.edu.davinci.dvds20231cg0.domain;
+package ar.edu.davinci.dvds20231cg9.domain;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import org.hibernate.annotations.GenericGenerator;
