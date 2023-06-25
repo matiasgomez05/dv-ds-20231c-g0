@@ -1,2 +1,5 @@
-# dv-ds-20231c-g0
+# dv-ds-20231c-g9
 Diseño de Sistemas - Tienda Ropita
+Integrantes:
+* Matías Gómez
+* Juan Manuel Saavedra
